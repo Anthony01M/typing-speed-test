@@ -1,5 +1,7 @@
 # Typing Speed Test
 
+> There is no demo available for this project. You can clone the repository and run the application on your local machine.
+
 This project is a Typing Speed Test that allows users to test their typing speed by typing words displayed on the screen. The application includes features such as a timer, dynamic background color changes, and particle animations for visual enhancement.
 
 ## Features
